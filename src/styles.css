@@ -1,0 +1,17 @@
+/* styles.css */
+
+.login-container {
+  /* Your styles for the login container */
+const Login = () => {
+  return (
+    <div className="login-container">
+      <h2>Login Page</h2>
+      {/* Your login form goes here */}
+    </div>
+  );
+};
+
+}
+
+/* Add more styles for other components as needed */
+
